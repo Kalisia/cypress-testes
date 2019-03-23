@@ -1,0 +1,5 @@
+node_modules
+npm-debug.log
+
+cypress/integration/examples
+cypress/fixtures/example*
