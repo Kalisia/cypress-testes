@@ -2,16 +2,16 @@
 
 # Save these hints :floppy_disk: 
 
-npm i cypress
-nvm use x
-cypress open
+<ul>npm i cypress</ul>
+<ul>nvm use x</ul>
+<ul>cypress open</ul>
 
 
 # Content :card_index_dividers:
 
-https://www.cypress.io/
-https://docs.cypress.io/
-https://example.cypress.io/
-https://docs.cypress.io/api/api/table-of-contents.html
-https://docs.cypress.io/examples/examples/workshop.html
-https://gitpitch.com/cypress-io/testing-workshop-cypress?p=slides/00-start#/0/21
+<ul>https://www.cypress.io/</ul>
+<ul>https://docs.cypress.io/</ul>
+<ul>https://example.cypress.io/</ul>
+<ul>https://docs.cypress.io/api/api/table-of-contents.html</ul>
+<ul>https://docs.cypress.io/examples/examples/workshop.html</ul>
+<ul>https://gitpitch.com/cypress-io/testing-workshop-cypress?p=slides/00-start#/0/21</ul>
